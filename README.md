@@ -62,7 +62,7 @@ Step # 04: Push your aplication to Github
 2. Login/SignUp
 3. Create a new repository. (Do not initialize it with README.MD or .gitignore beacuse your project already contains those files)
 4. Open terminal and navigate to the directory in which your project is present using: cd "path_to_your_project_directory" or simply just open the folder from file explorer Right Click and open terminal.
-  # Step 1: Initialize Git repository  
+   Step 1: Initialize Git repository  
   git init  
   
    Step 2: Add a remote repository (Replace <repository_url> with your actual GitHub repo URL)  
