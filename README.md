@@ -1,4 +1,3 @@
-Here's the rewritten version for creating and deploying a React-Redux application:
 
 ---
 
@@ -125,3 +124,6 @@ Additionally, one advantage is that you don't need to manually redeploy on GitHu
    git push origin main
    vercel --prod
    ```
+   ---
+
+---
